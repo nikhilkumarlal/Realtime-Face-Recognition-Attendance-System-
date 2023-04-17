@@ -39,6 +39,8 @@ Install dependencies
 ```bash
   pip Install requirements
   ```
+  
+Note - to make requirements.txt use `pip install pipreqs` then `pipreqs [project location]` as in `pipreqs .`
 
 
 You need to Install Python first and then add to path after adding to path Install the *dependencies*
