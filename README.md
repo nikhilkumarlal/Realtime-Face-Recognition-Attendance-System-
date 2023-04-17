@@ -51,9 +51,9 @@ Follow the followig steps :-
 2. Install Pycharm 
 3. Install dependencies
 4. create Firebase Database on googlefirebase.com
-4. create .jason file on google Firebase
+4. create .json file on google Firebase
 5. Copy the url and then paste it to the project code 
-6. Now you are able to run te project
+6. Now you are able to run the project
 ## Tech Stack
 
 **Programming :** Python
